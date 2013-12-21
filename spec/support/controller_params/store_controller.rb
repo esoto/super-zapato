@@ -1,0 +1,10 @@
+A_STORE_PARAMS = {
+  name: A_STORE_NAME,
+  address: A_STORE_ADDRESS
+}
+
+ANOTHER_STORE_PARAMS = {
+  name: ANOTHER_STORE_NAME,
+  address: ANOTHER_STORE_ADDRESS
+}
+
