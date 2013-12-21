@@ -9,5 +9,5 @@ SuperZapatos::Application.routes.draw do
     get 'articles/stores/:id', to: 'stores#articles_by_store', as: :articles_by_store
   end
 
-  # root :to => 'welcome#index'
+  root :to => 'stores#index'
 end
